@@ -1,0 +1,20 @@
+  
+.list-group{
+    text-align: left;
+    list-style-type:none;
+    padding: 30px;
+    margin: 5px;
+    border: 2px solid #79f9fd;
+    width: 40%;
+    display: inline-block;
+    color: rgba(217, 228, 228, 0.877);
+    background: #0b9780;
+}
+  
+.list-group-items{
+    text-align: left;
+}
+  
+.list-group span {
+    text-align: center;
+}

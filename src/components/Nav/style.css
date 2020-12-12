@@ -1,0 +1,13 @@
+.list-group{
+    text-align: left;
+    list-style-type: georgian;
+  
+}
+  
+.list-group-items{
+    text-align: left;
+}
+  
+.list-group span {
+    text-align: center;
+}
